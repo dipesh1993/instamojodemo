@@ -58,6 +58,7 @@ class _InstaMojoDemoState extends State<InstaMojoDemo> {
       appBar: AppBar(
         backgroundColor: Colors.blueGrey,
         title: Text("Pay"),
+
       ),
       body: Container(
         child: Center(
